@@ -15,7 +15,7 @@ In whole, if I want to send a message to Suzzallo Library floor one and I am in 
 
 #### Specify whether contents are ASCII text, Unicode text, or binary values
 
-To keep this simple, we will include the type of the contents in the corner of the index card. So we will write ASCII, Unicode or binary in the card.
+To keep this simple, we will include the type of the contents in the corner of the index card. So we will write ASCII, Unicode or binary on the card.
 
 #### Keep a record of what nodes the card has passed through.
 
