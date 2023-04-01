@@ -1,7 +1,7 @@
 
 ## Anti-Duplication
 
-#### How can we ensure that each card is received once and only once?
+### How can we ensure that each card is received once and only once?
 
 We can include the time of when each card was sent, followed by a number of minutes in which the card should be destroyed (14:53, 1). Each card in a single message should include the same number of minutes to live. So, at 14:54, if a node still had the card, then it should be destroyed. 
 
