@@ -19,4 +19,4 @@ To keep this simple, we will include the type of the contents in the corner of t
 
 #### Keep a record of what nodes the card has passed through.
 
-We will have each node write their initials on the back of the card (not the side with the message). To ensure that there is space, each node will write their name in small print.
+We will have each node write their initials on the back of the card (not the side with the message), starting from the top left. To ensure that there is space, each node will write their name in small print.
